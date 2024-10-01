@@ -45,6 +45,6 @@ I'm currently developing a **Personalized Fitness Trainer App** using Flutter. T
 
 ### 📫 Let's Connect
 - **Email**: siddhi1609@gmail.com
-- **LinkedIn**: [Siddhi's LinkedIn]((https://www.linkedin.com/in/siddhi-mehta-228048298/))
+- **LinkedIn**: [Siddhi's LinkedIn](https://www.linkedin.com/in/siddhi-mehta-228048298/)
 
 Feel free to explore my repositories, collaborate on projects, or reach out for discussions. Let’s create something awesome together!
