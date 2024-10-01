@@ -44,8 +44,7 @@ I'm currently developing a **Personalized Fitness Trainer App** using Flutter. T
 - **Frontend**: React.js, Flutter, SwiftUI
 
 ### 📫 Let's Connect
-- **Email**: siddhi@example.com
-- **LinkedIn**: [Siddhi's LinkedIn](https://www.linkedin.com)
-- **GitHub**: [Siddhi's GitHub](https://github.com/siddhi)
+- **Email**: siddhi1609@gmail.com
+- **LinkedIn**: [Siddhi's LinkedIn]((https://www.linkedin.com/in/siddhi-mehta-228048298/))
 
 Feel free to explore my repositories, collaborate on projects, or reach out for discussions. Let’s create something awesome together!
