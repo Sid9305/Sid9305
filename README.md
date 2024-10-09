@@ -18,7 +18,6 @@ I am passionate about building mobile and web applications that provide impactfu
 - Full-stack development with a focus on responsive, interactive web applications
 
 #### 🔹 Machine Learning:
-- **TensorFlow** (Basic ML tasks)
 - **Scikit-learn** (Worked on linear regression for predicting diabetes)
 
 ### 💡 Currently Working On
