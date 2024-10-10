@@ -47,3 +47,12 @@ I'm currently developing a **Personalized Fitness Trainer App** using Flutter. T
 - **LinkedIn**: [Siddhi's LinkedIn](https://www.linkedin.com/in/siddhi-mehta-228048298/)
 
 Feel free to explore my repositories, collaborate on projects, or reach out for discussions. Let’s create something awesome together!
+
+
+## My hosted Projects
+
+3 day hackathon - finance
+https://scroll-hacks-gamma.vercel.app/
+
+Video link
+https://drive.google.com/drive/folders/1CLtUtPo90vgpvUM94oK-zYzOwpmDm5vC?usp=sharing
